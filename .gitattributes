@@ -1,0 +1,9 @@
+*	text=auto
+
+# Text
+*.cs    	text	eol=crlf	diff=csharp
+*.csproj	text	eol=crlf	diff=xml
+*.resx  	text	eol=crlf	diff=xml
+*.sln   	text	eol=crlf	diff=xml
+*.svg   	text	eol=crlf	diff=xml
+*.xml   	text	eol=crlf	diff=xml

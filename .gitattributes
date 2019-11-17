@@ -7,3 +7,4 @@
 *.sln   	text	eol=crlf	diff=xml
 *.svg   	text	eol=crlf	diff=xml
 *.xml   	text	eol=crlf	diff=xml
+*.yaml  	text	eol=crlf
